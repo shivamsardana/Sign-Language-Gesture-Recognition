@@ -15,7 +15,7 @@ def createGesture():
 def loadimageFiles():
 	os.system("python /home/shivam/Desktop/sign-language-reconition-part-1/load_images.py")
 def trainModel():
-	os.system("python /home/shivam/Desktop/sign-language-reconition-part-1/cnn.py")
+	os.system("python /home/shivam/Desktop/sign-language-reconition-part-1/cnn_keras.py")
 def displayGesture():
 	os.system("python /home/shivam/Desktop/sign-language-reconition-part-1/display_all_gestures.py")
 def recognizeGesture():
