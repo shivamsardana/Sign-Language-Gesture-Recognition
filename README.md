@@ -5,4 +5,4 @@ If you run finalprojectgui.py , a gui will appear and you just need to follow th
 ![GUI](https://github.com/shivamsardana/Static-Sign-Language-Gesture-Recognition/blob/master/gui.png)
 
 
-[Final Presentation at the univeristy]([Lets go to Quora](https://www.quora.com))
+[Final Presentation at the univeristy](https://github.com/shivamsardana/Static-Sign-Language-Gesture-Recognition/blob/master/Static%20Sign%20Language%20Gesture%20Recognition.pptx)
